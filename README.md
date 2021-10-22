@@ -18,16 +18,16 @@ Here are some examples of code snippet translated from traditionnal C to FRAN-C:
 
 <table>
 <tr>
-<td><center>
+<td>
 
 **C** 
 
-</center></td>
-<td><center>
+</td>
+<td>
 
 **FRAN-C**
 
-</center></td>
+</td>
 </tr>
 <tr>
 <td>
@@ -60,6 +60,7 @@ entier principale(entier argc, caractère immuable *argv[])
 
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td>
 
@@ -80,6 +81,7 @@ pour(entier compteur = 0; compteur < 5; compteur++) {
 
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td> 
 
