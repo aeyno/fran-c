@@ -64,18 +64,20 @@ entier principale(entier argc, caractère immuable *argv[])
 <td>
 
 ```C
-for(int i = 0; i < 5; i++) {
+for(int compteur = 0; compteur < 5; compteur++) {
     printf("Baguette !\n");
 }
 ```
+
 </td>
 <td>
 
 ```C
-pour(entier i = 0; i < 5; i++) {
+pour(entier compteur = 0; compteur < 5; compteur++) {
     imprimerf("Baguette !\n");
 }
 ```
+
 </td>
 </tr>
 <tr>
