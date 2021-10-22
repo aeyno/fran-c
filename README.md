@@ -107,7 +107,7 @@ pourvu_que(boolean1 && boolean2) {
     imprimerf("foo");
 } autrement pourvu_que(boolean1) {
     imprimerf("bar");
-} aurtrement {
+} autrement {
     imprimerf("baz");
 }
 ```
