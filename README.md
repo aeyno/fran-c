@@ -30,7 +30,7 @@ Here are some examples of code snippet translated from traditionnal C to FRAN-C:
 </center></td>
 </tr>
 <tr>
-<td> 
+<td>
 
 ```C
 #include <stdio.h>
@@ -61,14 +61,13 @@ entier principale(entier argc, caractère immuable *argv[])
 </td>
 </tr>
 <tr>
-<td> 
+<td>
 
 ```C
 for(int i = 0; i < 5; i++) {
     printf("Baguette !\n");
 }
 ```
-
 </td>
 <td>
 
@@ -77,7 +76,6 @@ pour(entier i = 0; i < 5; i++) {
     imprimerf("Baguette !\n");
 }
 ```
-
 </td>
 </tr>
 <tr>
@@ -86,7 +84,7 @@ pour(entier i = 0; i < 5; i++) {
 ```C
 bool boolean1 = false;
 bool boolean2 = true;
-if(boolean1 && boolean 2) {
+if(boolean1 && boolean2) {
     printf("foo");
 } else if(boolean1) {
     printf("bar");
@@ -101,7 +99,7 @@ if(boolean1 && boolean 2) {
 ```C
 bivalent boolean1 = inexact;
 bivalent boolean2 = exact;
-pourvu_que(boolean1 && boolean 2) {
+pourvu_que(boolean1 && boolean2) {
     imprimerf("foo");
 } autrement pourvu_que(boolean1) {
     imprimerf("bar");
