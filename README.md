@@ -1,9 +1,7 @@
 # FRAN-C
 
-
 ## What is it ?
 
-FRAN-C is ANother C
 **FRAN-C** ("**F**RAN-C **R**eally **A**dresses **N**eed for **C**amembert" or "**F**RAN-C **R**eally **A**dds **N**othing to **C**") is a French programming language aiming at being the crème de la crème for system programming while adding the French touch to your project.
 
 **FRAN-C** is fully compatible with traditionnal C, so you can still use existing libraries without translating them.
