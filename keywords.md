@@ -45,3 +45,10 @@
 
 `imprimerf` → `printf`  
 `scanner` → `scanf`  
+`tirer_la_chasse` → `fflush`
+`fermer_fichier` → `fclose`
+`dire` → `puts`
+
+## Stdlib functions
+
+`sortir` → `exit`
