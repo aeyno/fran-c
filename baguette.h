@@ -51,3 +51,10 @@
 // Stdio
 #define imprimerf printf
 #define scanner scanf
+#define tirer_la_chasse fflush
+#define fermer_fichier fclose
+#define dire puts
+
+// Stdlib
+#define sortir exit
+
