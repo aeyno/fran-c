@@ -1,3 +1,10 @@
+/** @file baguette.h
+ *  @brief Coding in c the French way
+ *
+ *  Include this in your projects and start coding the French way.
+ *
+ *  @author Tom Gouville (Any0ne22)
+ */
 #pragma once
 
 
